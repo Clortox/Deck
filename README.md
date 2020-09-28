@@ -5,6 +5,7 @@ This has been my first attempt at making my own mobile deck, mostly as a prepper
 ![Front-Off](/Media/Pictures/PXL_20200928_194037893.jpg)
 ![Front-On](/Media/Pictures/PXL_20200928_194222870.jpg)
 ![Internals](/Media/Pictures/PXL_20200928_194414310.jpg)
+![Inventor](/Media/Inventor-ScreenShots/sc1.JPG)
 
 ## Contents
 1. Stl files
