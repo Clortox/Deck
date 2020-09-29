@@ -23,6 +23,7 @@ All links are working as of late 2020
 
 - [Case](https://www.amazon.com/gp/product/B001AXJPF2/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [7in TouchScreen Display](https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I)
+- [RPi4 4gb model](https://www.adafruit.com/product/4296?gclid=Cj0KCQjwtsv7BRCmARIsANu-CQe9Cy3XqL4thPbcHLOZQLjL1lo59SRhWGJGfEGUQqKfSySVsZxCyHkaAprqEALw_wcB)
 - [20000mAh 60W Power Bank](https://www.amazon.com/gp/product/B082PGS78L/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [1TB Harddrive](https://www.amazon.com/gp/product/B07CRG7BBH/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Keyboard](https://www.amazon.com/gp/product/B008F7CYZO/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
