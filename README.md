@@ -7,15 +7,15 @@ This has been my first attempt at making my own mobile deck, mostly as a prepper
 ![Internals](/Media/Pictures/PXL_20200928_194414310.jpg)
 ![Inventor](/Media/Inventor-ScreenShots/sc1.JPG)
 
+## About
+
+I was inspired by [r/cyberDeck](https://www.reddit.com/r/cyberDeck/), and more specifically the build by [jdoscher](https://back7.co/home/raspberry-pi-recovery-kit). This took me about 2 months and around 200 dollars. I already had many of the parts laying around, so I saved quite a bit compared to buying all new. The only thing not included here is the kit of M3 and M5 screws used to mount everything together. The deck has a slot that i chose to make a case for the hackrf. The slot on the right hand side of the screen however, can be inserted with anything, all you need is to design your own insert piece and print it! In jdoscher's build he included a switch, however I didn't see this being usede for networking, and would use it more for SDR projects, specifically satellite hunting. If you want to use something like a RTL-SDR however, feel free to design a part and do a pull request! I'd love to collect parts and make a reposity for a simple cyberDeck for anyone to build.
+
 ## Contents
-1. Stl files
-  ..* All the files needed to 3d print to work with the exact components i used
-2. Ipt files
-  ..* The files that can be opened in Inventor, I used Inventor Pro 2019 to create all files, except for the display bracket, credit for that goes to jdoscher, find his build [here](https://github.com/jdoscher/Back7co-Raspberry_Pi_Recovery_Kit)
-3. Code
-  ..* Theres not much to talk about here, just some basic setup stuff and useful utilities, like the clock, and a tool to adjust the display brightness (NOT ADDED YET)
-4. Media
-  ..* Videos of the 3d prints, as well as pictures to help you build everything
+1. Stl files: All the files needed to 3d print to work with the exact components i used
+2. Ipt files: The files that can be opened in Inventor, I used Inventor Pro 2019 to create all files, except for the display bracket, credit for that goes to jdoscher, find his build [here](https://github.com/jdoscher/Back7co-Raspberry_Pi_Recovery_Kit)
+3. Code: Theres not much to talk about here, just some basic setup stuff and useful utilities, like the clock, and a tool to adjust the display brightness (NOT ADDED YET)
+4. Media: Videos of the 3d prints, as well as pictures to help you build everything
 
 ## Shopping list
 
